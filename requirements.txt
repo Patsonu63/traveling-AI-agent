@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+"""
+Traveling AI Agent - Requirements File
+
+This file lists the Python package requirements for the Traveling AI Agent.
+"""
+
+# Core dependencies
+numpy>=1.20.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+
+# Optional dependencies for advanced features
+# Uncomment as needed
+# tensorflow>=2.8.0  # For advanced machine learning capabilities
+# scikit-learn>=1.0.0  # For additional machine learning algorithms
+# pandas>=1.4.0  # For data analysis
+# folium>=0.12.0  # For interactive maps
+# networkx>=2.7.0  # For advanced graph algorithms
